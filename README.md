@@ -1,8 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
 
-
-            <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-          
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Meu+nome+%C3%A9+Fernando+Lima%2C+tenho+31+anos;Estudante+de+Ci%C3%AAncias+de+Dados+na+EBAC;Seja+Bem+Vindo(a))](https://git.io/typing-svg)
 
 ### Main skills: 
 
